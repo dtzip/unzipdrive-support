@@ -5,7 +5,7 @@ UnzipDrive is a macOS app that merges multiple ZIP files into a single, clean fo
 ## Contact
 For any question, issue, or feedback, please contact:
 
-📧 support@tonmail.com
+📧 funks-morille.8n@icloud.com
 
 ---
 
@@ -16,4 +16,4 @@ UnzipDrive est une application macOS qui fusionne plusieurs fichiers ZIP en un s
 ## Contact
 Pour toute question ou problème, contactez :
 
-📧 support@tonmail.com
+📧 funks-morille.8n@icloud.com
